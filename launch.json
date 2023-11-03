@@ -1,0 +1,95 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "interest",
+            "request": "launch",
+            "mainClass": "interest",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "object",
+            "request": "launch",
+            "mainClass": "object",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "kansas",
+            "request": "launch",
+            "mainClass": "kansas",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "fileforswitch",
+            "request": "launch",
+            "mainClass": "fileforswitch",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "switchcasefile",
+            "request": "launch",
+            "mainClass": "switchcasefile",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "breaking",
+            "request": "launch",
+            "mainClass": "breaking",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "dowhile",
+            "request": "launch",
+            "mainClass": "dowhile",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "nestedloop",
+            "request": "launch",
+            "mainClass": "nestedloop",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "switchcase",
+            "request": "launch",
+            "mainClass": "switchcase",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "prince",
+            "request": "launch",
+            "mainClass": "prince",
+            "projectName": "New folder_b51cbdf3"
+        },
+        {
+            "type": "java",
+            "name": "prince",
+            "request": "launch",
+            "mainClass": "prince",
+            "projectName": "file"
+        }
+    ]
+}
