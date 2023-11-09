@@ -40,13 +40,3 @@ public class inherita {
 	}
 
 }
-/*
- * 
-output
-
-january
-february
-march
-April
-May
- */
