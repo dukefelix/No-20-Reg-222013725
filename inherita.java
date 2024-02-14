@@ -44,9 +44,9 @@ public class inherita {
  * 
 output
 
-january
-february
-march
-April
-May
+MANCHESTER CITY
+MANCHESTER UNITED
+REAL MADRID 
+AJAX AMSTERDAM
+FC PORTO
  */
