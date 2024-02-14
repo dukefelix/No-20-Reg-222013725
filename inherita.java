@@ -40,13 +40,3 @@ public class inherita {
 	}
 
 }
-/*
- * 
-output
-
-MANCHESTER CITY
-MANCHESTER UNITED
-REAL MADRID 
-AJAX AMSTERDAM
-FC PORTO
- */
